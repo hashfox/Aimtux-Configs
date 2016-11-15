@@ -5,3 +5,7 @@ Copy configs to `~/.steam/steam/steamapps/common/Counter-Strike Global Offensive
 
 **Tips about legit config:**
 You could use fake lag, depending on your situation. You could also turn off anti-flash to make it more legit as to hide from overwatch as much as possible.
+
+
+**Tips about legit low FOV config:**
+I fake lag is on you can turn it off or lower it if you want, I also have walls turned to check visible and opt for having radar on, this stops you from looking at people through walls and being overly obvious but still gives you the awareness edge, just don't make call outs off of the radar.  When you need an extra edge increase the fov a bit, the more you do this the more obvious it will be to spectators, you can also turn on silent aim I am still not sure if I prefer it on or off.  You can also turn on full walls for an extra edge.  When using change the aim target depending on your weapons I usually go for Awp-Upper spine silent aim, Rifles ans pistols - neck and no silent aim, smgs - head and silent aim, shotguns - larger fov(3ish) and upperspine/neck with silent aim.  The neck is a good all round target because your not constantly hitting crazy head shots but you almost always kill with a burst fire. You can also use middle mouse for trigger bot.  I would recommend not being bad at the game if your gunna to use this config but it is quite efective.
